@@ -1,0 +1,39 @@
+
+[Key.alt_l]
+[Key.tab]
+[Key.ctrl_l]
+[Key.backspace]
+[Key.shift]Themuku3132
+[Key.alt_l]
+[Key.tab]
+[Key.ctrl_l]
+[Key.esc]
+Key.alt_l pressed
+
+Key.tab pressed
+
+Key.ctrl_l pressed
+
+Key.backspace pressed
+
+Key.shift pressed
+Themuku3132
+Key.shift_r pressed
+!
+Key.alt_l pressed
+
+Key.tab pressed
+
+Key.ctrl_l pressed
+
+Key.shift pressed
+
+Key.left pressed
+
+Key.left pressed
+
+Key.left pressed
+[
+Key.shift_r pressed
+{
+Key.esc pressed
